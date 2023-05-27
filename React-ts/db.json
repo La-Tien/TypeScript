@@ -1,0 +1,77 @@
+{
+  "product": [
+    {
+      "name": "Dell update 1",
+      "price": "550000000",
+      "categoryId": [
+        1
+      ],
+      "desc": "sdfghj",
+      "id": 1
+    },
+    {
+      "name": "ipad update2",
+      "price": 4560000,
+      "categoryId": [
+        3
+      ],
+      "desc": "ugfc",
+      "id": 2
+    },
+    {
+      "name": "Iphone",
+      "price": 78000000,
+      "categoryId": [
+        2
+      ],
+      "desc": ",mnbv",
+      "id": 3
+    },
+    {
+      "name": "OPPO 1",
+      "price": "5000000",
+      "categoryId": [
+        2
+      ],
+      "desc": "sdcvbnkj",
+      "id": 5
+    }
+  ],
+  "Category": [
+    {
+      "id": 1,
+      "name": "Laptop"
+    },
+    {
+      "id": 2,
+      "name": "Điện thoại"
+    },
+    {
+      "id": 3,
+      "name": "Ipad"
+    }
+  ],
+  "signin": [
+    {
+      "name": "admin",
+      "password": "12345",
+      "remember": true,
+      "id": 1
+    },
+    {
+      "name": "admin",
+      "password": "12345",
+      "remember": true,
+      "id": 2
+    }
+  ],
+  "register": [
+    {
+      "name": "admin",
+      "email": "admin@email.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "product": [
+    {
+      "name": "Iphone",
+      "price": 234567,
+      "categoryId": [
+        2
+      ],
+      "desc": "rghj",
+      "id": 1
+    }
+  ],
+  "Category": [
+    {
+      "id": 1,
+      "name": "Laptop"
+    },
+    {
+      "id": 2,
+      "name": "Điện thoại"
+    },
+    {
+      "id": 3,
+      "name": "Ipad"
+    }
+  ],
+  "signin": [
+    {
+      "name": "admin",
+      "password": "12345",
+      "remember": true,
+      "id": 1
+    },
+    {
+      "name": "admin",
+      "password": "12345",
+      "remember": true,
+      "id": 2
+    }
+  ],
+  "register": [
+    {
+      "name": "admin",
+      "email": "admin@email.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "id": 1
+    }
+  ]
+}

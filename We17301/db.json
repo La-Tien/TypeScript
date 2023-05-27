@@ -1,0 +1,29 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Product 1 update lan 3",
+      "price": "600000"
+    },
+    {
+      "id": 2,
+      "name": "Product 2 update",
+      "price": "300000"
+    },
+    {
+      "id": 3,
+      "name": "Product 0",
+      "price": "400111"
+    },
+    {
+      "name": "Dell",
+      "price": "10000000",
+      "id": 4
+    },
+    {
+      "name": "Iphone",
+      "price": "5000000",
+      "id": 5
+    }
+  ]
+}
